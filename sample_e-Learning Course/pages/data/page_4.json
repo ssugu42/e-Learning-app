@@ -1,0 +1,13 @@
+{
+	"PageName" : "page4",
+	"data": {
+		"audio_src" : "audio3.mp3",
+		"page_header": "End Module",
+		"sub_header" : "Conclution",
+		"li" : [
+				"We have reached the end of this module. So far, we have seen the definition of conflict resolution and the strategies to resolve the conflict.","In fact, productively engaging in a conflict is always valuable.",
+				"Most people are willing and interested in resolving their conflicts","they just need the appropriate skill set and opportunities in which they practice these skills.",
+				"Practicing one’s conflict management skills leads to more successful engagement in conflict with outcomes of relief, understanding, better communication, and greater productivity for both the individual and the team."
+		]
+	}
+}

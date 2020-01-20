@@ -1,0 +1,13 @@
+{
+	"PageName" : "page3",
+	"data": {
+		"audio_src" : "audio4.mp3",
+		"page_header": "Conversation",
+		"sub_header" : "Sandeep and Wilson Conversation",
+		"li" : [
+				"Sandeep cancels his leave to complete the project, Wilson approves the leave and assign the project to another colleague","Wilson approves the leave with a condition that he should complete the project",
+				"Wilson approves leave only for 3 days due to work priority, and Both are stubborn in their own arguments.","It can control the layout of multiple web pages all at once",
+				"Click each of the options to know about the relevant response and strategy."
+		]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"data":{
+		"pages": [
+			{
+				"template_name":"page_1",
+				"script_name" : "page_1",
+				"json_name" : "page_1"
+			},
+			{
+				"template_name":"page_2",
+				"script_name" : "page_2",
+				"json_name" : "page_2"
+			},
+			{
+				"template_name":"page_3",
+				"script_name" : "page_3",
+				"json_name" : "page_3"
+			},
+			{
+				"template_name":"page_4",
+				"script_name" : "page_4",
+				"json_name" : "page_4"
+			}
+		]
+	}
+}

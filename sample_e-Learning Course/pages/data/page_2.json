@@ -1,0 +1,13 @@
+{
+	"PageName" : "page2",
+	"data": {
+		"audio_src" : "audio2.mp3",
+		"page_header": "Introduction",
+		"sub_header" : "Introduction of CR",
+		"li" : [
+				"Before enter into our topic let me tell you what conflict is","Conflict can be described as a disagreement among groups or individuals characterized by antagonism and hostility.",
+				"In any organization, conflicts can arise between co-workers, subordinates, managers or between employees and stakeholders.","HTML elements are represented by tags",
+				"Conflicts result in poor productivity, attrition or even violence at a workplace."
+		]
+	}
+}

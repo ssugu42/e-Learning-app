@@ -1,0 +1,11 @@
+{
+	"PageName" : "page_1",
+	"data": {
+				"audio_src" : "audio1.mp3",
+				"page_header": "Welcome",
+				"sub_header" : "Necessary Skills for all CR",
+				"li" : [
+							"Welcome to the course on conflict resolution.","In this course, we will look at a scenario of conflict in a corporate environment and also the possible strategies.","At the end of this course, you will be able to define conflict and conflict resolution","Demonstrate an example for conflict resolution, and explain the strategies of conflict resolution."
+						]
+			}
+}
